@@ -26,7 +26,7 @@
   <a href="https://YOUR-PORTFOLIO-SITE.com">🌐 Portfolio</a> 
 </p>
 
-<br><br>
+<br>
 
 <h2 align="center" style="font-family:'Times New Roman', serif;">⌘ Terminal ⌘</h2>
 
