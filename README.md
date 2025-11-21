@@ -2,6 +2,7 @@
 
 krakos@github:~$ whoami
 > aspiring-ml-systems-engineer
+> novice-researcher
 
 krakos@github:~$ whatinto
 > C++ / CUDA / GPU Programming
