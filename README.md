@@ -37,6 +37,6 @@ krakos@github:~$ echo "goodbye :)"
 
 <p align="center" style="font-family:'Times New Roman', serif;">
   <a href="https://github.com/krakos-afk?tab=repositories">🗂️ My Projects</a> •
-  <a href="https://YOUR-PORTFOLIO-SITE.com">🌐 Portfolio</a> 
+  <a href="https://om-landge.me">🌐 Portfolio</a> 
 </p>
 
