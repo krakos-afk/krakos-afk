@@ -36,7 +36,7 @@ machine@github:~$ whoami
 > aspiring-ml-systems-engineer
 
 machine@github:~$ skills --math
-> Linear Algebra: f(x) = 3x + 1 (my grades follow the sequence)
+> Linear Algebra: f(x) = e^{-x} (my grades follow the sequence)
 > calculus: derivative approximated, sanity lost
 > probability: statistically speaking, I have no idea
 > optimization: trust me bro, the gradient told me
