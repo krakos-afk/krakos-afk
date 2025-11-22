@@ -33,10 +33,3 @@ krakos@github:~$ echo "goodbye :)"
 > goodbye :)
 
 </pre>
-<h3 align="center" style="font-family:'Times New Roman', serif;">📡 Useful Links</h3>
-
-<p align="center" style="font-family:'Times New Roman', serif;">
-  <a href="https://github.com/krakos-afk?tab=repositories">🗂️ My Projects</a> •
-  <a href="https://om-landge.me">🌐 Portfolio</a> 
-</p>
-
