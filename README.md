@@ -4,11 +4,11 @@ krakos@github:~$ whoami
 > aspiring-ml-systems-engineer
 > novice-researcher
 
-krakos@github:~$ whatinto
+krakos@github:~$ whatido
 > C++ / CUDA / GPU Programming
 > ML Systems, Inference Optimization 
 > Deep Learning, CV, Transformers
-> Mathematics, Probability, Optimization 
+> Mathematics, Probability&Statistics, Optimization 
   
 krakos@github:~$ skills --math
 > linear algebra: f(x) = -|x| (inputs my efforts, outputs my grades)
