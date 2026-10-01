@@ -1,7 +1,7 @@
 <pre style="font-family:'Courier New', monospace; font-size:15px; padding:15px; border:2px solid black; background:#f4f4f4;">
 
 krakos@github:~$ whoami
-> aspiring-ml-systems-engineer
+> figuring things out
 > novice-researcher
 
 krakos@github:~$ whatido
