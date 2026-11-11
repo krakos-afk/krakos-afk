@@ -1,1 +1,2 @@
-
+- mostly human 
+- working more on low level and embedded tech for now
